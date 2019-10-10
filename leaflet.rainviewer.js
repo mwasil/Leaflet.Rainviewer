@@ -142,7 +142,7 @@ L.Control.Rainviewer = L.Control.extend({
                 tileSize: 256,
                 opacity: 0.001,
 				transparent: true,
-				attribution: "rainviewer.com",
+				attribution: '<a href="https://rainviewer.com" target="_blank">rainnviewer.com</a>',
                 zIndex: ts
             });
         }
