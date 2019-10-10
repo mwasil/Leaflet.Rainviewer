@@ -1,0 +1,7 @@
+admin/tmp/
+tmp/
+uploads/
+inc/data/*.sdb
+node_modules
+.history
+.vscode

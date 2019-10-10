@@ -1,5 +1,7 @@
 # Leaflet.Rainviewer
 
+[Demo](https://marcinwasilewski.eu/L/Leaflet.Rainviewer/demo/)
+
 E.g.
 
 ````js
