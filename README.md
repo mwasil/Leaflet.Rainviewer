@@ -11,8 +11,8 @@ E.g.
         nextButtonText: '>',
         playStopButtonText: 'Play/Stop',
         prevButtonText: '<',
-        positionSliderLabelText: "Godzina:",
-        opacitySliderLabelText: "Przezroczystość:",
+        positionSliderLabelText: "Hour:",
+        opacitySliderLabelText: "Opacity:",
         animationInterval: 500,
         opacity: 0.5
     }).addTo(map);
