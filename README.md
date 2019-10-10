@@ -1,6 +1,6 @@
 # Leaflet.Rainviewer
 
-[Demo](https://marcinwasilewski.eu/L/Leaflet.Rainviewer/demo/)
+[Demo](https://mwasil.github.io/Leaflet.Rainviewer/demo/)
 
 E.g.
 
