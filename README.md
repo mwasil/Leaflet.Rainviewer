@@ -1,8 +1,16 @@
 # Leaflet.Rainviewer
 
-[Demo](https://mwasil.github.io/Leaflet.Rainviewer/demo/)
+- [Demo](https://mwasil.github.io/Leaflet.Rainviewer/demo/)
+- [Demo JSFiddle](https://jsfiddle.net/hwmz670c/)
 
-E.g.
+# Installation
+
+````html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mwasil/Leaflet.Rainviewer/leaflet.rainviewer.css"/>
+<script src="https://cdn.jsdelivr.net/gh/mwasil/Leaflet.Rainviewer/leaflet.rainviewer.js"></script>
+````
+
+# Setup
 
 ````js
     // Change default options
