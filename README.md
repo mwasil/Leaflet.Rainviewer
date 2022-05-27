@@ -14,7 +14,7 @@
 
 ````js
     // Change default options
-    L.control.rainviwer({ 
+    L.control.rainviewer({ 
         position: 'bottomleft',
         nextButtonText: '>',
         playStopButtonText: 'Play/Stop',
